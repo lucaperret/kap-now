@@ -1,0 +1,42 @@
+{
+  "name": "kap-now",
+  "version": "0.1.0",
+  "description": "Share on Now",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaperret/kap-now.git"
+  },
+  "keywords": [
+		"kap-plugin",
+		"now",
+		"zeit",
+		"gif",
+		"mp4",
+		"webm",
+		"apng",
+		"upload",
+		"share"
+  ],
+	"files": [
+		"index.js"
+	],
+  "author": "Luca Perret <perret.luca@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucaperret/kap-now/issues"
+  },
+  "homepage": "https://github.com/lucaperret/kap-now#readme",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "kap-plugin-test": "^0.5.0",
+    "xo": "^0.18.2"
+  }
+}
