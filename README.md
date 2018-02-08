@@ -1,4 +1,6 @@
-# kap-now [![Build Status](https://travis-ci.org/lucaperret/kap-now.svg?branch=master)](https://travis-ci.org/lucaperret/kap-now)
+# kap-now [![Build Status](https://travis-ci.org/lucaperret/kap-now.svg?branch=master)](https://travis-ci.org/lucaperret/kap-now) [![npm](https://img.shields.io/npm/dt/kap-now.svg)](https://www.npmjs.com/package/kap-now)
+
+![Now logo](now.png?raw=true "now.sh")
 
 > [Kap](https://github.com/wulkano/kap) plugin - Share on [Now](https://zeit.co/now)
 
