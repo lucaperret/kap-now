@@ -8,6 +8,9 @@
 
 In the `Kap` menu, go to `Preferences…`, select the `Plugins` pane, find this plugin, and click `Install`.
 
+You should also add your [Now token](https://zeit.co/account/tokens) to the plugin configuration.
+In the `Plugins` pane, click `Open plugins folder`, edit the `kap-now.json` file to add a `token` property with your token value.
+
 ## Usage
 
 In the editor, after recording, select one of the export formats, and then `Share on Now`.
