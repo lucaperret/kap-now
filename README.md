@@ -2,7 +2,7 @@
 
 ![Now logo](now.png?raw=true "now.sh")
 
-> [Kap](https://github.com/wulkano/kap) plugin - Share on [Now](https://zeit.co/now)
+> [Kap](https://github.com/wulkano/kap) plugin - Share on [▲ZEIT now](https://zeit.co/now)
 
 ## Install
 
