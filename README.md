@@ -9,7 +9,13 @@
 In the `Kap` menu, go to `Preferences…`, select the `Plugins` pane, find this plugin, and click `Install`.
 
 You should also add your [Now token](https://zeit.co/account/tokens) to the plugin configuration.
-In the `Plugins` pane, click `Open plugins folder`, edit the `kap-now.json` file to add a `token` property with your token value.
+In the `Plugins` pane, click `Open plugins folder`, edit the `kap.json` file to add a `token` property with your token value:
+
+```
+{
+    "token": "yourNowToken"
+}
+```
 
 ## Usage
 
