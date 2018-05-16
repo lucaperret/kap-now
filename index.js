@@ -8,7 +8,6 @@ const action = async context => {
 	const deploymentEndpoint = 'https://api.zeit.co/v2/now/deployments';
 	const Authorization = 'Bearer ' + context.config.get('token');
 
-	context.setProgress('Read file…');
 	const filePath = await context.filePath();
 	const data = await readFile(filePath);
 	const sha = createHash('sha1').update(data).digest('hex');
