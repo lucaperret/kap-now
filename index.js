@@ -46,7 +46,7 @@ const action = async context => {
 	});
 
 	context.copyToClipboard(`https://${deploymentResponse.body.url}`);
-	context.notify('URL to the video has been copied to the clipboard');
+	context.notify(`URL to the ${context.prettyFormat} has been copied to the clipboard`);
 };
 
 const now = {
