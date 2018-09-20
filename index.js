@@ -58,7 +58,6 @@ const now = {
 			title: 'Now token',
 			description: 'Create one here https://zeit.co/account/tokens',
 			type: 'string',
-			default: '',
 			required: true
 		},
 		name: {
