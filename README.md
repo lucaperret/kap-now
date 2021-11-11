@@ -1,3 +1,5 @@
+**Deprecated in favor of [kap-vercel](https://www.npmjs.com/package/kap-vercel)**.
+
 # kap-now [![Build Status](https://travis-ci.org/lucaperret/kap-now.svg?branch=master)](https://travis-ci.org/lucaperret/kap-now) [![npm](https://img.shields.io/npm/dt/kap-now.svg)](https://www.npmjs.com/package/kap-now)
 
 ![Now logo](now.png?raw=true "now.sh")
